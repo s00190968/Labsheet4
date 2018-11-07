@@ -1,0 +1,7 @@
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\bin\Debug\Labsheet4.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\bin\Debug\Labsheet4.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\bin\Debug\Labsheet4.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\obj\Debug\Labsheet4.csprojAssemblyReference.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\obj\Debug\Labsheet4.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\obj\Debug\Labsheet4.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\Labsheet4\obj\Debug\Labsheet4.pdb

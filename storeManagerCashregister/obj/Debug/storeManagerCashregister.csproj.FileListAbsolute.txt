@@ -1,0 +1,6 @@
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\obj\Debug\storeManagerCashregister.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\bin\Debug\storeManagerCashregister.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\bin\Debug\storeManagerCashregister.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\bin\Debug\storeManagerCashregister.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\obj\Debug\storeManagerCashregister.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\storeManagerCashregister\obj\Debug\storeManagerCashregister.pdb
