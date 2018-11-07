@@ -1,0 +1,7 @@
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\bin\Debug\SchoolsDemon.exe.config
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\bin\Debug\SchoolsDemon.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\bin\Debug\SchoolsDemon.pdb
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.csprojAssemblyReference.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.csproj.CoreCompileInputs.cache
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.exe
+D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.pdb

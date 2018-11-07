@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labsheet4", "Labsheet4\Labs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storeManagerCashregister", "storeManagerCashregister\storeManagerCashregister.csproj", "{3E792302-C9B5-40E1-B042-24A3366C30FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolsDemon", "SchoolsDemon\SchoolsDemon.csproj", "{990B554A-FE7E-4C87-ADA7-CA49639B4B99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3E792302-C9B5-40E1-B042-24A3366C30FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E792302-C9B5-40E1-B042-24A3366C30FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E792302-C9B5-40E1-B042-24A3366C30FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990B554A-FE7E-4C87-ADA7-CA49639B4B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990B554A-FE7E-4C87-ADA7-CA49639B4B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990B554A-FE7E-4C87-ADA7-CA49639B4B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990B554A-FE7E-4C87-ADA7-CA49639B4B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
