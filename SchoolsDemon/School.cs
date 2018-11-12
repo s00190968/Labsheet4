@@ -11,13 +11,10 @@ namespace SchoolsDemon
         public string schoolName { get; }
         public int numOfStudents { get; set; }
 
-        DateTime lastEdited;
-
         public School(string name, int number)
         {
             this.schoolName = name;
             this.numOfStudents = number;
-            lastEdited = DateTime.Now;
         }
 
         public override string ToString()
@@ -28,10 +25,10 @@ namespace SchoolsDemon
         {
             School other = (School)obj;
 
-            if (this.lastEdited > other.lastEdited)
+            if (this.numOfStudents > other.numOfStudents)
             {
                 return 1;
-            }else if(this.lastEdited < other.lastEdited)
+            }else if(this.numOfStudents < other.numOfStudents)
             {
                 return -1;
             }

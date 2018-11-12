@@ -5,3 +5,10 @@ D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDe
 D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.csproj.CoreCompileInputs.cache
 D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.exe
 D:\Schools\XAMK\Exchange Studies\FOOP\Labsheet4\SchoolsDemon\obj\Debug\SchoolsDemon.pdb
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\bin\Debug\SchoolsDemon.exe.config
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\bin\Debug\SchoolsDemon.exe
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\bin\Debug\SchoolsDemon.pdb
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\obj\Debug\SchoolsDemon.csprojAssemblyReference.cache
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\obj\Debug\SchoolsDemon.csproj.CoreCompileInputs.cache
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\obj\Debug\SchoolsDemon.exe
+C:\Users\s00190968\Documents\New folder\SchoolsDemon\obj\Debug\SchoolsDemon.pdb
